@@ -15,10 +15,10 @@ Riccardo crea un gruppo per guardare Netflix a casa sua:
         *
 *Chi c'è stasera per Netflix?
     Chiede a tutti i partecipanti se sono disponibili per le 21:00:
-        SE disponibili:
+        SE disponibile almeno 1 parteciapante
             **
         ALTRIMENTI:
-            ->Elimina dal gruppo
+            ->Chiudi Gruppo
 
 
 **Per quanto tempo?:
